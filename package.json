@@ -1,0 +1,26 @@
+{
+  "name": "github",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000B\u0000a\u0000j\u0000a\u0000j\u0000-\u0000P\u0000r\u0000i\u0000y\u0000a\u0000n\u0000k\u0000a\u0000\r\u0000 \u0000#\u0000 \u0000B\u0000a\u0000j\u0000a\u0000j\u0000-\u0000P\u0000r\u0000i\u0000y\u0000a\u0000n\u0000k\u0000a\u0000\r\u0000 \u0000",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Priyanka2508sharma/Bajaj-Priyanka.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Priyanka2508sharma/Bajaj-Priyanka/issues"
+  },
+  "homepage": "https://github.com/Priyanka2508sharma/Bajaj-Priyanka#readme",
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "dotenv": "^17.2.4",
+    "express": "^5.2.1"
+  }
+}
